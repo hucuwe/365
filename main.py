@@ -7,7 +7,7 @@ import os
 import random
 
 today = datetime.now()
-'START_DATE' = 2020-12-20
+'START_DATE' == 2020-12-20
 start_date = os.environ['START_DATE']
 city = os.environ['CITY']
 birthday = os.environ['BIRTHDAY']
